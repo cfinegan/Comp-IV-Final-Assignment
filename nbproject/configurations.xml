@@ -15,6 +15,7 @@
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
                    projectFiles="true">
+      <itemPath>autoexec.txt</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
@@ -38,6 +39,7 @@
                    kind="IMPORTANT_FILES_FOLDER">
       <itemPath>Makefile</itemPath>
     </logicalFolder>
+    <itemPath>output.xml</itemPath>
   </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -79,11 +81,15 @@
       </item>
       <item path="XStr.h" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="autoexec.txt" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="jmhUtilities.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="jmhUtilities.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="output.xml" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -128,11 +134,15 @@
       </item>
       <item path="XStr.h" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="autoexec.txt" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="jmhUtilities.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="jmhUtilities.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="output.xml" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
   </confs>

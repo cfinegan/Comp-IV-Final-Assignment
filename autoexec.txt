@@ -1,0 +1,19 @@
+add element root cats
+add element cats purrsian 1
+add attribute purrsian color orange
+add element purrsian age 15
+add element purrsian slim
+
+add element cats banshee 2
+add attribute banshee color black
+add element banshee age 16
+add element banshee heavy
+
+add element root example
+add attribute example other thing
+add element example text example
+
+print
+write output.xml
+
+help
