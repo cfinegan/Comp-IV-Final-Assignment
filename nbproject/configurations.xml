@@ -16,6 +16,7 @@
                    displayName="Resource Files"
                    projectFiles="true">
       <itemPath>autoexec.txt</itemPath>
+      <itemPath>output.xml</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
@@ -39,7 +40,7 @@
                    kind="IMPORTANT_FILES_FOLDER">
       <itemPath>Makefile</itemPath>
     </logicalFolder>
-    <itemPath>output.xml</itemPath>
+    <itemPath>README.md</itemPath>
   </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -76,6 +77,8 @@
       <item path="LocalStr.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="PointerTypedefs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="README.md" ex="false" tool="3" flavor2="0">
       </item>
       <item path="XStr.cpp" ex="false" tool="1" flavor2="0">
       </item>
@@ -129,6 +132,8 @@
       <item path="LocalStr.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="PointerTypedefs.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="README.md" ex="false" tool="3" flavor2="0">
       </item>
       <item path="XStr.cpp" ex="false" tool="1" flavor2="0">
       </item>
